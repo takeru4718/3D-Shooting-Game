@@ -1,0 +1,55 @@
+﻿  syuryosakihin4.cpp
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(25,37): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(59,22): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(261,15): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(277,35): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(279,35): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(406,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(407,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(408,23): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(411,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(412,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(413,25): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(534,37): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(534,24): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(535,37): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(535,24): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(536,33): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(536,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(537,33): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(537,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(652,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(654,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(673,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(675,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(693,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(695,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(714,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(716,27): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(728,27): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(729,27): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(733,27): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(734,27): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(755,18): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(756,18): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(766,16): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(768,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(769,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(803,19): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1050,54): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1050,41): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1050,28): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1059,58): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1059,44): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1059,30): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1084,76): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1084,62): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1084,48): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1084,34): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1124,26): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1124,23): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1126,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1140,26): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1140,23): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+D:\cg\syuryosakuhin4\syuryosakihin4.cpp(1142,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  syuryosakihin4.vcxproj -> D:\cg\syuryosakuhin4\Debug\syuryosakihin4.exe
